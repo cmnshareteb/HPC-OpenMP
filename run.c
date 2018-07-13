@@ -1,3 +1,4 @@
+//simple hello world program
 #include<stdio.h>
 #include "omp.h"
 
