@@ -1,3 +1,4 @@
+//hello world with thread ID and no of threads specified
 #include<stdio.h>
 #include "omp.h"
 
